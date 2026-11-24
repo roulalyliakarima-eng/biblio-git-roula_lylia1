@@ -1,1 +1,1 @@
-print("Bibiotheque Universitaire -v1.0")
+print("Bibiotheque Universitaire -v2.0 (Recherche rapide)")
